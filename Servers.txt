@@ -1,18 +1,11 @@
-vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@swe-bridge.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=21342134#🇸🇪 Швеция @RomanCriminal
-vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@fi-bridge.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=21342134#🇫🇮 Финляндия @RomanCriminal
-vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?security=reality&encryption=none&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=12af0dd9#🇪🇪 Эстония @RomanCriminal
-vless://aead6961-8924-417b-85af-b6ddc8bcdc0e@ge.astralweb.tech:8443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇬🇧 Великобритания @RomanCriminal
-vless://b4f75262-4bf8-442d-8494-d5403ead77ef@155.254.35.65:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=d82fb387#🇩🇪 Германия @RomanCriminal
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@213.165.37.11:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=ylnhh.cc.cd&type=ws&sni=ylnhh.cc.cd#🇨🇦 Канада @RomanCriminal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🇳🇱 Нидерланды @RomanCriminal
-vless://077a96d9-2f23-4522-b6ff-61f3793aac29@194.5.248.39:443?security=reality&encryption=none&pbk=V1vIrExX3-oHy5vJNlsazYhVdkKyt9rtt4CDADBeFFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=0bbd0f101ee82d47#🇷🇴 Румыния @RomanCriminal
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ирландия @RomanCriminal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#🇹🇷 Турция @RomanCriminal
-vmess://eyJhZGQiOiJjZzFjMTUud2FpbWFvamQuY29tIiwiaWQiOiI0Mzc4YTY3ZS1kMjc3LTQ0YjUtYTk5Yi1hOTQ3ZmZmMWVlMjEiLCJwb3J0IjoiNDQzIiwiaG9zdCI6ImNnMWMxNS53YWltYW9qZC5jb20iLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwidGxzIjoicmVhbGl0eSIsInNuaSI6ImNnMWMxNS53YWltYW9qZC5jb20iLCJ0eXBlIjoibm9uZSIsIm5ldCI6IndzIiwicHMiOiLwn4em8J+HqiDQntCQ0JUgQFJvbWFuQ3JpbWluYWwifQ==
-vless://fde3da09-e21d-4d8a-aba7-4aef5b963805@45.88.183.163:8443?security=reality&encryption=none&pbk=Eoh9yc6hispCJjHOQkneJtQVSXa2axUDtD14zWq-dEo&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=32b914f84264c345#🇮🇳 Индия @RomanCriminal
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw%3D%3D@154.53.60.212:80#🇺🇸 Америка @RomanCriminal
-ss://YWVzLTI1Ni1nY206WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.232:38388#🇻🇳 Вьетнам @RomanCriminal
-ss://YWVzLTI1Ni1nY206YXNkMTIzNDU2@103.36.91.32:8388#🇸🇬 Сингапур @RomanCriminal
-ss://YWVzLTI1Ni1nY206YXNkMTIzNDU2@103.149.183.80:8388#🇭🇰 Гонконг @RomanCriminal
-ss://YWVzLTI1Ni1nY206cXdlclJFV1FAQA%3D%3D@218.237.185.230:4652#🇰🇷 Южная Корея @RomanCriminal
-vless://b4f75262-4bf8-442d-8494-d5403ead77ef@152.53.3.1:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#🔥 Впн крутой @RomanCriminal
+#profile-title: @RomanCriminal | PREMIUM 💎
+#subscription-userinfo: total=0; expire=0
+
+vless://46b12284-c3d2-49de-8314-6cfdea19e9ef@de.srv.oplcdn.link:8443?security=reality&type=tcp&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇩🇰 Denmark @RomanCriminal
+vless://e5835209-52e9-429e-8ebb-e87113293236@212.233.89.104:443?security=reality&type=tcp&sni=tunnel.vk-apps.com&fp=chrome&flow=xtls-rprx-vision&sid=491db313&pbk=MZz-39gknMNeg4P6vTV3zKLrbIzf87oxtKB1T-Vu-SQ&encryption=none#🇫🇮 Finland @RomanCriminal
+vless://88f2c5cc-a287-4be9-be28-56c2729d3782@171.22.120.205:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=PSGeYvXG251dW51q6B9bUeSmjplvxW18JPaVsuWDZjA&encryption=none#🇦🇹 Austria @RomanCriminal
+vless://ecc65f46-4bb6-47b5-860c-837b3ae4f3ab@5.129.236.170:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#🇧🇪 Belgium @RomanCriminal
+vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@51.250.104.85:1488?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇮🇸 Iceland @RomanCriminal
+vless://ecc65f46-4bb6-47b5-860c-837b3ae4f3ab@45.82.255.32:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#🇪🇪 Estonia @RomanCriminal
+vless://5c403d3e-81fb-29af-a76e-5a5ab279824b@ooooooof.ir.fizikade.ir:46942?security=reality&type=tcp&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&sid=1709fe47a82c202e&pbk=omg0dIfTHQbMADo5g6COKn73nEFoSYC1X5lV-goPBEg&encryption=none#🇷🇴 Romania @RomanCriminal
+vless://86c2b667-4fc8-4a56-af4a-38b9e9e84610@Evay_vpn.fast.hosting-ip.com:80?security=none&type=ws&path=%2F%3Fed%3D2052%3F%40Evay_vpn&host=norbert-team-free1.global.ssl.fastly.net&encryption=none#🇺🇦 Ukraine @RomanCriminal
